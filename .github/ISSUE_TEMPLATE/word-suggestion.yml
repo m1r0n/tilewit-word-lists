@@ -1,0 +1,41 @@
+name: Word suggestion
+description: Suggest adding or removing a word in a Tilewit word list.
+title: "[word] "
+labels: ["word-suggestion"]
+body:
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language
+      options:
+        - English
+        - Spanish
+        - French
+        - Estonian
+    validations:
+      required: true
+  - type: input
+    id: word
+    attributes:
+      label: Word
+      description: One word, 5 or 6 letters.
+    validations:
+      required: true
+  - type: dropdown
+    id: change
+    attributes:
+      label: Change
+      options:
+        - Accept it as a guess
+        - Stop accepting it as a guess
+        - Remove it from the answers
+        - Add it to the answers
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why
+      description: For example a dictionary link, or why the word is offensive or not a common word.
+    validations:
+      required: true

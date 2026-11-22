@@ -1,0 +1,329 @@
+{
+  "repository": "https://github.com/m1r0n/tilewit-word-lists",
+  "suggestionsUrl": "https://github.com/m1r0n/tilewit-word-lists/issues/new?template=word-suggestion.yml",
+  "licences": {
+    "CC BY 4.0": {
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "shareAlike": false
+    },
+    "CC BY-SA 4.0": {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "shareAlike": true,
+      "text": "CC-BY-SA-4.0.txt"
+    },
+    "LGPL 2.1": {
+      "url": "https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html",
+      "shareAlike": true,
+      "text": "LGPL-2.1.txt"
+    },
+    "LGPL 2.1 + EKI licence": {
+      "url": "https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html",
+      "shareAlike": true,
+      "text": "LGPL-2.1.txt"
+    },
+    "MIT": {
+      "url": "https://opensource.org/license/mit",
+      "shareAlike": false
+    },
+    "MPL 1.1": {
+      "url": "https://www.mozilla.org/MPL/1.1/",
+      "shareAlike": true,
+      "text": "MPL-1.1.txt"
+    },
+    "MPL 2.0": {
+      "url": "https://www.mozilla.org/MPL/2.0/",
+      "shareAlike": true,
+      "text": "MPL-2.0.txt"
+    },
+    "Public domain": {
+      "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "shareAlike": false
+    },
+    "SCOWL licence (MIT-like)": {
+      "url": "https://wordlist.aspell.net/scowl-readme/",
+      "shareAlike": false
+    }
+  },
+  "languages": [
+    {
+      "language": "english",
+      "listLicences": {
+        "allowedGuesses": [],
+        "answers": [
+          "CC BY-SA 4.0"
+        ]
+      },
+      "sources": [
+        {
+          "id": "enable",
+          "name": "ENABLE2K word list",
+          "author": "Alan Beale, M. Cooper and contributors",
+          "homepage": "https://github.com/dolph/dictionary",
+          "licence": "Public domain",
+          "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "attribution": "ENABLE2K (Enhanced North American Benchmark Lexicon), placed in the public domain by its authors",
+          "usedFor": [
+            "allowed-guesses",
+            "answer-filter"
+          ]
+        },
+        {
+          "id": "scowl",
+          "name": "SCOWL en_US Hunspell dictionary",
+          "author": "Kevin Atkinson and contributors",
+          "homepage": "https://wordlist.aspell.net/",
+          "licence": "SCOWL licence (MIT-like)",
+          "licenceUrl": "https://wordlist.aspell.net/scowl-readme/",
+          "attribution": "Copyright 2000-2018 by Kevin Atkinson, with the further copyrights listed in the SCOWL notice",
+          "usedFor": [
+            "answer-filter"
+          ],
+          "notice": "COPYRIGHT, SOURCES, and CREDITS:\n\nThe English dictionaries come directly from SCOWL\nand is thus under the same copyright of SCOWL.  The affix file is\na heavily modified version of the original english.aff file which was\nreleased as part of Geoff Kuenning's Ispell and as such is covered by\nhis BSD license.  Part of SCOWL is also based on Ispell thus the\nIspell copyright is included with the SCOWL copyright.\n\nThe collective work is Copyright 2000-2018 by Kevin Atkinson as well\nas any of the copyrights mentioned below:\n\n  Copyright 2000-2018 by Kevin Atkinson\n\n  Permission to use, copy, modify, distribute and sell these word\n  lists, the associated scripts, the output created from the scripts,\n  and its documentation for any purpose is hereby granted without fee,\n  provided that the above copyright notice appears in all copies and\n  that both that copyright notice and this permission notice appear in\n  supporting documentation. Kevin Atkinson makes no representations\n  about the suitability of this array for any purpose. It is provided\n  \"as is\" without express or implied warranty.\n\nAlan Beale <biljir@pobox.com> also deserves special credit as he has,\nin addition to providing the 12Dicts package and being a major\ncontributor to the ENABLE word list, given me an incredible amount of\nfeedback and created a number of special lists (those found in the\nSupplement) in order to help improve the overall quality of SCOWL.\n\nThe 10 level includes the 1000 most common English words (according to\nthe Moby (TM) Words II [MWords] package), a subset of the 1000 most\ncommon words on the Internet (again, according to Moby Words II), and\nfrequently class 16 from Brian Kelk's \"UK English Wordlist\nwith Frequency Classification\".\n\nThe MWords package was explicitly placed in the public domain:\n\n    The Moby lexicon project is complete and has\n    been place into the public domain. Use, sell,\n    rework, excerpt and use in any way on any platform.\n\n    Placing this material on internal or public servers is\n    also encouraged. The compiler is not aware of any\n    export restrictions so freely distribute world-wide.\n\n    You can verify the public domain status by contacting\n\n    Grady Ward\n    3449 Martha Ct.\n    Arcata, CA  95521-4884\n\n    grady@netcom.com\n    grady@northcoast.com\n\nThe \"UK English Wordlist With Frequency Classification\" is also in the\nPublic Domain:\n\n  Date: Sat, 08 Jul 2000 20:27:21 +0100\n  From: Brian Kelk <Brian.Kelk@cl.cam.ac.uk>\n\n  > I was wondering what the copyright status of your \"UK English\n  > Wordlist With Frequency Classification\" word list as it seems to\n  > be lacking any copyright notice.\n\n  There were many many sources in total, but any text marked\n  \"copyright\" was avoided. Locally-written documentation was one\n  source. An earlier version of the list resided in a filespace called\n  PUBLIC on the University mainframe, because it was considered public\n  domain.\n\n  Date: Tue, 11 Jul 2000 19:31:34 +0100\n\n  > So are you saying your word list is also in the public domain?\n\n  That is the intention.\n\nThe 20 level includes frequency classes 7-15 from Brian's word list.\n\nThe 35 level includes frequency classes 2-6 and words appearing in at\nleast 11 of 12 dictionaries as indicated in the 12Dicts package.  All\nwords from the 12Dicts package have had likely inflections added via\nmy inflection database.\n\nThe 12Dicts package and Supplement is in the Public Domain.\n\nThe WordNet database, which was used in the creation of the\nInflections database, is under the following copyright:\n\n  This software and database is being provided to you, the LICENSEE,\n  by Princeton University under the following license.  By obtaining,\n  using and/or copying this software and database, you agree that you\n  have read, understood, and will comply with these terms and\n  conditions.:\n\n  Permission to use, copy, modify and distribute this software and\n  database and its documentation for any purpose and without fee or\n  royalty is hereby granted, provided that you agree to comply with\n  the following copyright notice and statements, including the\n  disclaimer, and that the same appear on ALL copies of the software,\n  database and documentation, including modifications that you make\n  for internal use or for distribution.\n\n  WordNet 1.6 Copyright 1997 by Princeton University.  All rights\n  reserved.\n\n  THIS SOFTWARE AND DATABASE IS PROVIDED \"AS IS\" AND PRINCETON\n  UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR\n  IMPLIED.  BY WAY OF EXAMPLE, BUT NOT LIMITATION, PRINCETON\n  UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES OF MERCHANT-\n  ABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF THE\n  LICENSED SOFTWARE, DATABASE OR DOCUMENTATION WILL NOT INFRINGE ANY\n  THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS.\n\n  The name of Princeton University or Princeton may not be used in\n  advertising or publicity pertaining to distribution of the software\n  and/or database.  Title to copyright in this software, database and\n  any associated documentation shall at all times remain with\n  Princeton University and LICENSEE agrees to preserve same.\n\nThe 40 level includes words from Alan's 3esl list found in version 4.0\nof his 12dicts package.  Like his other stuff the 3esl list is also in the\npublic domain.\n\nThe 50 level includes Brian's frequency class 1, words appearing\nin at least 5 of 12 of the dictionaries as indicated in the 12Dicts\npackage, and uppercase words in at least 4 of the previous 12\ndictionaries.  A decent number of proper names is also included: The\ntop 1000 male, female, and Last names from the 1990 Census report; a\nlist of names sent to me by Alan Beale; and a few names that I added\nmyself.  Finally a small list of abbreviations not commonly found in\nother word lists is included.\n\nThe name files form the Census report is a government document which I\ndon't think can be copyrighted.\n\nThe file special-jargon.50 uses common.lst and word.lst from the\n\"Unofficial Jargon File Word Lists\" which is derived from \"The Jargon\nFile\".  All of which is in the Public Domain.  This file also contain\na few extra UNIX terms which are found in the file \"unix-terms\" in the\nspecial/ directory.\n\nThe 55 level includes words from Alan's 2of4brif list found in version\n4.0 of his 12dicts package.  Like his other stuff the 2of4brif is also\nin the public domain.\n\nThe 60 level includes all words appearing in at least 2 of the 12\ndictionaries as indicated by the 12Dicts package.\n\nThe 70 level includes Brian's frequency class 0 and the 74,550 common\ndictionary words from the MWords package.  The common dictionary words,\nlike those from the 12Dicts package, have had all likely inflections\nadded.  The 70 level also included the 5desk list from version 4.0 of\nthe 12Dics package which is in the public domain.\n\nThe 80 level includes the ENABLE word list, all the lists in the\nENABLE supplement package (except for ABLE), the \"UK Advanced Cryptics\nDictionary\" (UKACD), the list of signature words from the YAWL package,\nand the 10,196 places list from the MWords package.\n\nThe ENABLE package, mainted by M\\Cooper <thegrendel@theriver.com>,\nis in the Public Domain:\n\n  The ENABLE master word list, WORD.LST, is herewith formally released\n  into the Public Domain. Anyone is free to use it or distribute it in\n  any manner they see fit. No fee or registration is required for its\n  use nor are \"contributions\" solicited (if you feel you absolutely\n  must contribute something for your own peace of mind, the authors of\n  the ENABLE list ask that you make a donation on their behalf to your\n  favorite charity). This word list is our gift to the Scrabble\n  community, as an alternate to \"official\" word lists. Game designers\n  may feel free to incorporate the WORD.LST into their games. Please\n  mention the source and credit us as originators of the list. Note\n  that if you, as a game designer, use the WORD.LST in your product,\n  you may still copyright and protect your product, but you may *not*\n  legally copyright or in any way restrict redistribution of the\n  WORD.LST portion of your product. This *may* under law restrict your\n  rights to restrict your users' rights, but that is only fair.\n\nUKACD, by J Ross Beresford <ross@bryson.demon.co.uk>, is under the\nfollowing copyright:\n\n  Copyright (c) J Ross Beresford 1993-1999. All Rights Reserved.\n\n  The following restriction is placed on the use of this publication:\n  if The UK Advanced Cryptics Dictionary is used in a software package\n  or redistributed in any form, the copyright notice must be\n  prominently displayed and the text of this document must be included\n  verbatim.\n\n  There are no other restrictions: I would like to see the list\n  distributed as widely as possible.\n\nThe 95 level includes the 354,984 single words, 256,772 compound\nwords, 4,946 female names and the 3,897 male names, and 21,986 names\nfrom the MWords package, ABLE.LST from the ENABLE Supplement, and some\nadditional words found in my part-of-speech database that were not\nfound anywhere else.\n\nAccent information was taken from UKACD.\n\nThe VarCon package was used to create the American, British, Canadian,\nand Australian word list.  It is under the following copyright:\n\n  Copyright 2000-2016 by Kevin Atkinson\n\n  Permission to use, copy, modify, distribute and sell this array, the\n  associated software, and its documentation for any purpose is hereby\n  granted without fee, provided that the above copyright notice appears\n  in all copies and that both that copyright notice and this permission\n  notice appear in supporting documentation. Kevin Atkinson makes no\n  representations about the suitability of this array for any\n  purpose. It is provided \"as is\" without express or implied warranty.\n\n  Copyright 2016 by Benjamin Titze\n\n  Permission to use, copy, modify, distribute and sell this array, the\n  associated software, and its documentation for any purpose is hereby\n  granted without fee, provided that the above copyright notice appears\n  in all copies and that both that copyright notice and this permission\n  notice appear in supporting documentation. Benjamin Titze makes no\n  representations about the suitability of this array for any\n  purpose. It is provided \"as is\" without express or implied warranty.\n\n  Since the original words lists come from the Ispell distribution:\n\n  Copyright 1993, Geoff Kuenning, Granada Hills, CA\n  All rights reserved.\n\n  Redistribution and use in source and binary forms, with or without\n  modification, are permitted provided that the following conditions\n  are met:\n\n  1. Redistributions of source code must retain the above copyright\n     notice, this list of conditions and the following disclaimer.\n  2. Redistributions in binary form must reproduce the above copyright\n     notice, this list of conditions and the following disclaimer in the\n     documentation and/or other materials provided with the distribution.\n  3. All modifications to the source code must be clearly marked as\n     such.  Binary redistributions based on modified source code\n     must be clearly marked as modified versions in the documentation\n     and/or other materials provided with the distribution.\n  (clause 4 removed with permission from Geoff Kuenning)\n  5. The name of Geoff Kuenning may not be used to endorse or promote\n     products derived from this software without specific prior\n     written permission.\n\n  THIS SOFTWARE IS PROVIDED BY GEOFF KUENNING AND CONTRIBUTORS ``AS IS'' AND\n  ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE\n  IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE\n  ARE DISCLAIMED.  IN NO EVENT SHALL GEOFF KUENNING OR CONTRIBUTORS BE LIABLE\n  FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL\n  DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS\n  OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)\n  HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT\n  LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY\n  OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF\n  SUCH DAMAGE.\n\n"
+        },
+        {
+          "id": "scowl_huge",
+          "name": "SCOWL word lists up to size 80 (huge)",
+          "author": "Kevin Atkinson and contributors",
+          "homepage": "https://wordlist.aspell.net/",
+          "licence": "SCOWL licence (MIT-like)",
+          "licenceUrl": "https://wordlist.aspell.net/scowl-readme/",
+          "attribution": "SCOWL 2020.12.07, copyright 2000-2018 by Kevin Atkinson, with the further copyrights listed in the SCOWL notice",
+          "usedFor": [
+            "allowed-guesses"
+          ],
+          "notice": "COPYRIGHT, SOURCES, and CREDITS:\n\nThe English dictionaries come directly from SCOWL\nand is thus under the same copyright of SCOWL.  The affix file is\na heavily modified version of the original english.aff file which was\nreleased as part of Geoff Kuenning's Ispell and as such is covered by\nhis BSD license.  Part of SCOWL is also based on Ispell thus the\nIspell copyright is included with the SCOWL copyright.\n\nThe collective work is Copyright 2000-2018 by Kevin Atkinson as well\nas any of the copyrights mentioned below:\n\n  Copyright 2000-2018 by Kevin Atkinson\n\n  Permission to use, copy, modify, distribute and sell these word\n  lists, the associated scripts, the output created from the scripts,\n  and its documentation for any purpose is hereby granted without fee,\n  provided that the above copyright notice appears in all copies and\n  that both that copyright notice and this permission notice appear in\n  supporting documentation. Kevin Atkinson makes no representations\n  about the suitability of this array for any purpose. It is provided\n  \"as is\" without express or implied warranty.\n\nAlan Beale <biljir@pobox.com> also deserves special credit as he has,\nin addition to providing the 12Dicts package and being a major\ncontributor to the ENABLE word list, given me an incredible amount of\nfeedback and created a number of special lists (those found in the\nSupplement) in order to help improve the overall quality of SCOWL.\n\nThe 10 level includes the 1000 most common English words (according to\nthe Moby (TM) Words II [MWords] package), a subset of the 1000 most\ncommon words on the Internet (again, according to Moby Words II), and\nfrequently class 16 from Brian Kelk's \"UK English Wordlist\nwith Frequency Classification\".\n\nThe MWords package was explicitly placed in the public domain:\n\n    The Moby lexicon project is complete and has\n    been place into the public domain. Use, sell,\n    rework, excerpt and use in any way on any platform.\n\n    Placing this material on internal or public servers is\n    also encouraged. The compiler is not aware of any\n    export restrictions so freely distribute world-wide.\n\n    You can verify the public domain status by contacting\n\n    Grady Ward\n    3449 Martha Ct.\n    Arcata, CA  95521-4884\n\n    grady@netcom.com\n    grady@northcoast.com\n\nThe \"UK English Wordlist With Frequency Classification\" is also in the\nPublic Domain:\n\n  Date: Sat, 08 Jul 2000 20:27:21 +0100\n  From: Brian Kelk <Brian.Kelk@cl.cam.ac.uk>\n\n  > I was wondering what the copyright status of your \"UK English\n  > Wordlist With Frequency Classification\" word list as it seems to\n  > be lacking any copyright notice.\n\n  There were many many sources in total, but any text marked\n  \"copyright\" was avoided. Locally-written documentation was one\n  source. An earlier version of the list resided in a filespace called\n  PUBLIC on the University mainframe, because it was considered public\n  domain.\n\n  Date: Tue, 11 Jul 2000 19:31:34 +0100\n\n  > So are you saying your word list is also in the public domain?\n\n  That is the intention.\n\nThe 20 level includes frequency classes 7-15 from Brian's word list.\n\nThe 35 level includes frequency classes 2-6 and words appearing in at\nleast 11 of 12 dictionaries as indicated in the 12Dicts package.  All\nwords from the 12Dicts package have had likely inflections added via\nmy inflection database.\n\nThe 12Dicts package and Supplement is in the Public Domain.\n\nThe WordNet database, which was used in the creation of the\nInflections database, is under the following copyright:\n\n  This software and database is being provided to you, the LICENSEE,\n  by Princeton University under the following license.  By obtaining,\n  using and/or copying this software and database, you agree that you\n  have read, understood, and will comply with these terms and\n  conditions.:\n\n  Permission to use, copy, modify and distribute this software and\n  database and its documentation for any purpose and without fee or\n  royalty is hereby granted, provided that you agree to comply with\n  the following copyright notice and statements, including the\n  disclaimer, and that the same appear on ALL copies of the software,\n  database and documentation, including modifications that you make\n  for internal use or for distribution.\n\n  WordNet 1.6 Copyright 1997 by Princeton University.  All rights\n  reserved.\n\n  THIS SOFTWARE AND DATABASE IS PROVIDED \"AS IS\" AND PRINCETON\n  UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR\n  IMPLIED.  BY WAY OF EXAMPLE, BUT NOT LIMITATION, PRINCETON\n  UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES OF MERCHANT-\n  ABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF THE\n  LICENSED SOFTWARE, DATABASE OR DOCUMENTATION WILL NOT INFRINGE ANY\n  THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS.\n\n  The name of Princeton University or Princeton may not be used in\n  advertising or publicity pertaining to distribution of the software\n  and/or database.  Title to copyright in this software, database and\n  any associated documentation shall at all times remain with\n  Princeton University and LICENSEE agrees to preserve same.\n\nThe 40 level includes words from Alan's 3esl list found in version 4.0\nof his 12dicts package.  Like his other stuff the 3esl list is also in the\npublic domain.\n\nThe 50 level includes Brian's frequency class 1, words appearing\nin at least 5 of 12 of the dictionaries as indicated in the 12Dicts\npackage, and uppercase words in at least 4 of the previous 12\ndictionaries.  A decent number of proper names is also included: The\ntop 1000 male, female, and Last names from the 1990 Census report; a\nlist of names sent to me by Alan Beale; and a few names that I added\nmyself.  Finally a small list of abbreviations not commonly found in\nother word lists is included.\n\nThe name files form the Census report is a government document which I\ndon't think can be copyrighted.\n\nThe file special-jargon.50 uses common.lst and word.lst from the\n\"Unofficial Jargon File Word Lists\" which is derived from \"The Jargon\nFile\".  All of which is in the Public Domain.  This file also contain\na few extra UNIX terms which are found in the file \"unix-terms\" in the\nspecial/ directory.\n\nThe 55 level includes words from Alan's 2of4brif list found in version\n4.0 of his 12dicts package.  Like his other stuff the 2of4brif is also\nin the public domain.\n\nThe 60 level includes all words appearing in at least 2 of the 12\ndictionaries as indicated by the 12Dicts package.\n\nThe 70 level includes Brian's frequency class 0 and the 74,550 common\ndictionary words from the MWords package.  The common dictionary words,\nlike those from the 12Dicts package, have had all likely inflections\nadded.  The 70 level also included the 5desk list from version 4.0 of\nthe 12Dics package which is in the public domain.\n\nThe 80 level includes the ENABLE word list, all the lists in the\nENABLE supplement package (except for ABLE), the \"UK Advanced Cryptics\nDictionary\" (UKACD), the list of signature words from the YAWL package,\nand the 10,196 places list from the MWords package.\n\nThe ENABLE package, mainted by M\\Cooper <thegrendel@theriver.com>,\nis in the Public Domain:\n\n  The ENABLE master word list, WORD.LST, is herewith formally released\n  into the Public Domain. Anyone is free to use it or distribute it in\n  any manner they see fit. No fee or registration is required for its\n  use nor are \"contributions\" solicited (if you feel you absolutely\n  must contribute something for your own peace of mind, the authors of\n  the ENABLE list ask that you make a donation on their behalf to your\n  favorite charity). This word list is our gift to the Scrabble\n  community, as an alternate to \"official\" word lists. Game designers\n  may feel free to incorporate the WORD.LST into their games. Please\n  mention the source and credit us as originators of the list. Note\n  that if you, as a game designer, use the WORD.LST in your product,\n  you may still copyright and protect your product, but you may *not*\n  legally copyright or in any way restrict redistribution of the\n  WORD.LST portion of your product. This *may* under law restrict your\n  rights to restrict your users' rights, but that is only fair.\n\nUKACD, by J Ross Beresford <ross@bryson.demon.co.uk>, is under the\nfollowing copyright:\n\n  Copyright (c) J Ross Beresford 1993-1999. All Rights Reserved.\n\n  The following restriction is placed on the use of this publication:\n  if The UK Advanced Cryptics Dictionary is used in a software package\n  or redistributed in any form, the copyright notice must be\n  prominently displayed and the text of this document must be included\n  verbatim.\n\n  There are no other restrictions: I would like to see the list\n  distributed as widely as possible.\n\nThe 95 level includes the 354,984 single words, 256,772 compound\nwords, 4,946 female names and the 3,897 male names, and 21,986 names\nfrom the MWords package, ABLE.LST from the ENABLE Supplement, and some\nadditional words found in my part-of-speech database that were not\nfound anywhere else.\n\nAccent information was taken from UKACD.\n\nThe VarCon package was used to create the American, British, Canadian,\nand Australian word list.  It is under the following copyright:\n\n  Copyright 2000-2016 by Kevin Atkinson\n\n  Permission to use, copy, modify, distribute and sell this array, the\n  associated software, and its documentation for any purpose is hereby\n  granted without fee, provided that the above copyright notice appears\n  in all copies and that both that copyright notice and this permission\n  notice appear in supporting documentation. Kevin Atkinson makes no\n  representations about the suitability of this array for any\n  purpose. It is provided \"as is\" without express or implied warranty.\n\n  Copyright 2016 by Benjamin Titze\n\n  Permission to use, copy, modify, distribute and sell this array, the\n  associated software, and its documentation for any purpose is hereby\n  granted without fee, provided that the above copyright notice appears\n  in all copies and that both that copyright notice and this permission\n  notice appear in supporting documentation. Benjamin Titze makes no\n  representations about the suitability of this array for any\n  purpose. It is provided \"as is\" without express or implied warranty.\n\n  Since the original words lists come from the Ispell distribution:\n\n  Copyright 1993, Geoff Kuenning, Granada Hills, CA\n  All rights reserved.\n\n  Redistribution and use in source and binary forms, with or without\n  modification, are permitted provided that the following conditions\n  are met:\n\n  1. Redistributions of source code must retain the above copyright\n     notice, this list of conditions and the following disclaimer.\n  2. Redistributions in binary form must reproduce the above copyright\n     notice, this list of conditions and the following disclaimer in the\n     documentation and/or other materials provided with the distribution.\n  3. All modifications to the source code must be clearly marked as\n     such.  Binary redistributions based on modified source code\n     must be clearly marked as modified versions in the documentation\n     and/or other materials provided with the distribution.\n  (clause 4 removed with permission from Geoff Kuenning)\n  5. The name of Geoff Kuenning may not be used to endorse or promote\n     products derived from this software without specific prior\n     written permission.\n\n  THIS SOFTWARE IS PROVIDED BY GEOFF KUENNING AND CONTRIBUTORS ``AS IS'' AND\n  ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE\n  IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE\n  ARE DISCLAIMED.  IN NO EVENT SHALL GEOFF KUENNING OR CONTRIBUTORS BE LIABLE\n  FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL\n  DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS\n  OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)\n  HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT\n  LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY\n  OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF\n  SUCH DAMAGE.\n\n"
+        },
+        {
+          "id": "wordnik",
+          "name": "Wordnik Wordlist",
+          "author": "Wordnik",
+          "homepage": "https://github.com/wordnik/wordlist",
+          "licence": "MIT",
+          "licenceUrl": "https://github.com/wordnik/wordlist/blob/46e6215d0f90356afe9c8ba4be347e7e98cb425c/LICENSE",
+          "attribution": "Wordnik Wordlist, copyright (c) 2020 Wordnik",
+          "usedFor": [
+            "allowed-guesses"
+          ],
+          "notice": "MIT License\n\nCopyright (c) 2020 Wordnik\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n"
+        },
+        {
+          "id": "frequencywords",
+          "name": "FrequencyWords (OpenSubtitles 2018)",
+          "author": "Hermit Dave",
+          "homepage": "https://github.com/hermitdave/FrequencyWords",
+          "licence": "CC BY-SA 4.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "FrequencyWords by Hermit Dave, word frequencies from the OpenSubtitles 2018 corpus (opus.nlpl.eu)",
+          "usedFor": [
+            "answer-ranking"
+          ]
+        },
+        {
+          "id": "ldnoobw",
+          "name": "List of Dirty, Naughty, Obscene, and Otherwise Bad Words",
+          "author": "Shutterstock and contributors",
+          "homepage": "https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words",
+          "licence": "CC BY 4.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "attribution": "List of Dirty, Naughty, Obscene, and Otherwise Bad Words by Shutterstock and contributors",
+          "usedFor": [
+            "profanity-filter"
+          ]
+        },
+        {
+          "id": "profanity_list",
+          "name": "Profanity List",
+          "author": "David Sojevic",
+          "homepage": "https://github.com/dsojevic/profanity-list",
+          "licence": "MIT",
+          "licenceUrl": "https://github.com/dsojevic/profanity-list/blob/c27924319aa9bd6f917e3782b4f4b6604a50b652/LICENSE",
+          "attribution": "Profanity List, copyright (c) 2021 David Sojevic",
+          "usedFor": [
+            "profanity-filter"
+          ]
+        }
+      ]
+    },
+    {
+      "language": "estonian",
+      "listLicences": {
+        "allowedGuesses": [
+          "LGPL 2.1",
+          "LGPL 2.1 + EKI licence"
+        ],
+        "answers": [
+          "CC BY-SA 4.0",
+          "LGPL 2.1",
+          "LGPL 2.1 + EKI licence"
+        ]
+      },
+      "sources": [
+        {
+          "id": "et_ee",
+          "name": "Eesti sõnastik Hunspellile (et_EE)",
+          "author": "Jaak Pruulmann, on the basis of the word list of the Institute of the Estonian Language (EKI)",
+          "homepage": "https://github.com/LibreOffice/dictionaries/tree/master/et_EE",
+          "licence": "LGPL 2.1 + EKI licence",
+          "licenceUrl": "https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html",
+          "attribution": "Estonian Hunspell dictionary by Jaak Pruulmann (LGPL 2.1), based on the word list of the Institute of the Estonian Language (Eesti Keele Instituut), copyright Institute of the Estonian Language, used under the EKI software licence",
+          "usedFor": [
+            "allowed-guesses",
+            "answer-filter"
+          ],
+          "notice": "EESTI KEELE INSTITUUDI TARKVARA LITSENTSILEPING\n\nAutoriõigus © Eesti Keele Instituut.\n\ne-post: tarkvara@eki.ee\n\nURL: http://www.eki.ee/tarkvara/\n\nKäesoleva litsentsilepinguga on selle tarkvaratoote kasutajail õigus tarkvara kasutada\nmistahes eesmärgil, sh levitada, kopeerida, muuta, kasutada muu tarkvara koosseisus ja müüa\njärgnevatel tingimustel:\nKäesolev litsentsileping tuleb muutmata kujul säilitada kõigi selle tarkvara koopiate juures.\nEi Eesti Keele Instituut ega tarkvara autor(id) ei vastuta mistahes otseste või kaudsete\nkahjude eest, mis võivad johtuda selle tarkvaratoote kasutamisest.\nEKI jagab tarkvara sooviga edendada eesti keele uuringuid ja soodustada eesti keele kasutust\nkiiresti arenevas infotehnoloogias, kuid ei võta sellega endale lisakohustusi – EKI ei taga\ntarkvara sobivust konkreetseks otstarbeks, ei kohustu programmi täiustama või põhjalikumalt\nkirjeldama kasutatud algoritme. (Mis muidugi ei tähenda, et me seda ei tee).\nTarkvara kasutamisel palume sellest teada anda ülaltoodud elektronposti aadressil.\n\n---------- litsentsilepingu lõpp ----------\n\nSoftware Licence Agreement\nInstitute of the Estonian Language\n\nCopyright © Institute of the Estonian Language\n\nE-mail: tarkvara@eki.ee\n\nURL: http://www.eki.ee/tarkvara/\n\nThe present Licence Agreement gives the user of this Software Product (hereinafter: Product)\nthe right to use the Product for whatever purpose (incl. distribution, copying, altering,\ninclusion in other software, and selling) on the following conditions:\nThe present Licence Agreement should belong unaltered to each copy ever made of this Product;\nNeither the Institute of the Estonian Language (hereinafter: IEL) nor the author(s) of the Product will take responsibility for any detriment, direct or indirect, possibly ensuing from the application of the Product;\nThe IEL is ready to share the Product with other users as we wish to advance research on the Estonian language and to promote the use of Estonian in IT-technology now rapidly developing, yet we refuse to bind ourselves to any further obligation, which means that the IEL is not obliged either to warrant the suitability of the Product for a concrete use, to improve the program, or to provide a more detailed description of the underlying algorithms. (Which does not mean, though, that we may not do it.)\nWhenever you use the Product, we request that you inform us by writing to the e-mail address tarkvara@eki.ee or to street address listed below.\n\nInstitute of the Estonian Language\n Roosikrantsi 6\n EE-10119 Tallinn\n ESTONIA\n\nE-mail: eki@eki.ee\nPhone & Fax: +372-6411443\n---------- end of Licence Agreement ----------\n"
+        },
+        {
+          "id": "vabamorf",
+          "name": "Vabamorf morphological lexicon",
+          "author": "Filosoft",
+          "homepage": "https://github.com/Filosoft/vabamorf",
+          "licence": "LGPL 2.1",
+          "licenceUrl": "https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html",
+          "attribution": "Vabamorf lemma lexicon (fs_lex), copyright (c) 2015 Filosoft, licensed under the LGPL",
+          "usedFor": [
+            "allowed-guesses",
+            "answer-filter"
+          ]
+        },
+        {
+          "id": "frequencywords",
+          "name": "FrequencyWords (OpenSubtitles 2018)",
+          "author": "Hermit Dave",
+          "homepage": "https://github.com/hermitdave/FrequencyWords",
+          "licence": "CC BY-SA 4.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "FrequencyWords by Hermit Dave, word frequencies from the OpenSubtitles 2018 corpus (opus.nlpl.eu)",
+          "usedFor": [
+            "answer-ranking"
+          ]
+        }
+      ]
+    },
+    {
+      "language": "french",
+      "listLicences": {
+        "allowedGuesses": [
+          "MPL 2.0"
+        ],
+        "answers": [
+          "CC BY-SA 4.0",
+          "MPL 2.0"
+        ]
+      },
+      "sources": [
+        {
+          "id": "grammalecte",
+          "name": "Dictionnaire orthographique français « Classique » 7.7 (Grammalecte)",
+          "author": "Olivier R. and the Grammalecte contributors",
+          "homepage": "https://grammalecte.net/",
+          "licence": "MPL 2.0",
+          "licenceUrl": "https://www.mozilla.org/MPL/2.0/",
+          "attribution": "French Hunspell dictionary « Classique » 7.7 by Olivier R. and contributors (grammalecte.net)",
+          "usedFor": [
+            "allowed-guesses",
+            "answer-filter"
+          ]
+        },
+        {
+          "id": "grammalecte_all",
+          "name": "Dictionnaire orthographique français « Toutes variantes » 7.7 (Grammalecte)",
+          "author": "Olivier R. and the Grammalecte contributors",
+          "homepage": "https://grammalecte.net/",
+          "licence": "MPL 2.0",
+          "licenceUrl": "https://www.mozilla.org/MPL/2.0/",
+          "attribution": "French Hunspell dictionary « Toutes variantes » 7.7 (classic and 1990 reform spellings) by Olivier R. and contributors (grammalecte.net)",
+          "usedFor": [
+            "allowed-guesses"
+          ]
+        },
+        {
+          "id": "lexique",
+          "name": "Lexique 3.83",
+          "author": "Boris New and Christophe Pallier",
+          "homepage": "https://www.lexique.org/",
+          "licence": "CC BY-SA 4.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Lexique 3.83 by Boris New and Christophe Pallier (lexique.org)",
+          "usedFor": [
+            "answer-ranking"
+          ]
+        },
+        {
+          "id": "ldnoobw",
+          "name": "List of Dirty, Naughty, Obscene, and Otherwise Bad Words",
+          "author": "Shutterstock and contributors",
+          "homepage": "https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words",
+          "licence": "CC BY 4.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "attribution": "List of Dirty, Naughty, Obscene, and Otherwise Bad Words by Shutterstock and contributors",
+          "usedFor": [
+            "profanity-filter"
+          ]
+        }
+      ]
+    },
+    {
+      "language": "spanish",
+      "listLicences": {
+        "allowedGuesses": [
+          "MPL 1.1"
+        ],
+        "answers": [
+          "CC BY-SA 4.0",
+          "MPL 1.1"
+        ]
+      },
+      "sources": [
+        {
+          "id": "rla_es",
+          "name": "Diccionario es_ES para Hunspell (RLA-ES)",
+          "author": "Santiago Bosio and the RLA-ES project",
+          "homepage": "https://github.com/sbosio/rla-es",
+          "licence": "MPL 1.1",
+          "licenceUrl": "https://www.mozilla.org/MPL/1.1/",
+          "attribution": "Spanish (es_ES) Hunspell dictionary of the RLA-ES project, used under the MPL 1.1 option of its GPL 3 / LGPL 3 / MPL 1.1 tri-licence",
+          "usedFor": [
+            "allowed-guesses",
+            "answer-filter"
+          ]
+        },
+        {
+          "id": "rla_es_all",
+          "name": "Diccionario es_GQ para Hunspell (RLA-ES)",
+          "author": "Santiago Bosio and the RLA-ES project",
+          "homepage": "https://github.com/sbosio/rla-es",
+          "licence": "MPL 1.1",
+          "licenceUrl": "https://www.mozilla.org/MPL/1.1/",
+          "attribution": "Spanish (es_GQ) Hunspell dictionary of the RLA-ES project, the regional variant that also lists the regional words of the other variants, used under the MPL 1.1 option of its GPL 3 / LGPL 3 / MPL 1.1 tri-licence",
+          "usedFor": [
+            "allowed-guesses"
+          ]
+        },
+        {
+          "id": "frequencywords",
+          "name": "FrequencyWords (OpenSubtitles 2018)",
+          "author": "Hermit Dave",
+          "homepage": "https://github.com/hermitdave/FrequencyWords",
+          "licence": "CC BY-SA 4.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "FrequencyWords by Hermit Dave, word frequencies from the OpenSubtitles 2018 corpus (opus.nlpl.eu)",
+          "usedFor": [
+            "answer-ranking"
+          ]
+        },
+        {
+          "id": "ldnoobw",
+          "name": "List of Dirty, Naughty, Obscene, and Otherwise Bad Words",
+          "author": "Shutterstock and contributors",
+          "homepage": "https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words",
+          "licence": "CC BY 4.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "attribution": "List of Dirty, Naughty, Obscene, and Otherwise Bad Words by Shutterstock and contributors",
+          "usedFor": [
+            "profanity-filter"
+          ]
+        }
+      ]
+    }
+  ]
+}
