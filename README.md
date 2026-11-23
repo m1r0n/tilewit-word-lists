@@ -16,8 +16,8 @@ licences/
 ## How the lists are made
 
 The lists are generated from the sources below; nothing is added by hand. The generator lowercases every word, folds
-ligatures (œ to oe), strips accents except letters of the game keyboard (ñ, õ, ä, ö, ü), drops words with any other
-character, and expands Hunspell dictionaries into their word forms. Answers are the allowed guesses that the frequency
+ligatures (œ to oe) and the Russian ё to е, strips accents except letters of the game keyboard (ñ, õ, ä, ö, ü), drops
+words with any other character, and expands Hunspell dictionaries into their word forms. Answers are the allowed guesses that the frequency
 source knows, ranked by frequency, minus inflected forms, proper nouns, foreign words and offensive or vulgar words. The
 easy tier is the most frequent part of the medium tier, which is the most frequent part of the hard tier.
 
@@ -72,6 +72,36 @@ Licences of the derived lists:
 
 - Allowed guesses: CC BY-SA 4.0, MPL 2.0
 - Answer tiers: CC BY-SA 4.0, MPL 2.0
+
+### Portuguese
+
+| Source | Author | Licence | Used for |
+| :--- | :--- | :--- | :--- |
+| [VERO pt_BR Hunspell dictionary 3.2](https://pt-br.libreoffice.org/projetos/projeto-vero-verificador-ortografico/) | Raimundo Santos Moura and the VERO project contributors | [MPL 2.0](https://www.mozilla.org/MPL/2.0/) | allowed-guesses, answer-filter |
+| [Wiktionary, Portuguese entries (Wiktextract extraction)](https://kaikki.org/dictionary/Portuguese/) | Wiktionary contributors; extracted by Tatu Ylonen's Wiktextract (kaikki.org) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | allowed-guesses |
+| [Wiktionary, Portuguese lemmas (Wiktextract extraction)](https://kaikki.org/dictionary/Portuguese/) | Wiktionary contributors; extracted by Tatu Ylonen's Wiktextract (kaikki.org) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | answer-filter |
+| [FrequencyWords (OpenSubtitles 2018)](https://github.com/hermitdave/FrequencyWords) | Hermit Dave | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | answer-ranking |
+| [List of Dirty, Naughty, Obscene, and Otherwise Bad Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) | Shutterstock and contributors | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | profanity-filter |
+
+Licences of the derived lists:
+
+- Allowed guesses: CC BY-SA 4.0, MPL 2.0
+- Answer tiers: CC BY-SA 4.0, MPL 2.0
+
+### Russian
+
+| Source | Author | Licence | Used for |
+| :--- | :--- | :--- | :--- |
+| [Russian Hunspell dictionary (ru_RU)](https://github.com/LibreOffice/dictionaries/tree/master/ru_RU) | Alexander I. Lebedev | [BSD-style (Lebedev)](https://github.com/LibreOffice/dictionaries/blob/c0865a85eb67dc377f2cf8e8fe2c4fa9e53f0dcb/ru_RU/README_ru_RU.txt) | allowed-guesses, answer-filter |
+| [Wiktionary, Russian entries (Wiktextract extraction)](https://kaikki.org/dictionary/Russian/) | Wiktionary contributors; extracted by Tatu Ylonen's Wiktextract (kaikki.org) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | allowed-guesses |
+| [Wiktionary, Russian lemmas (Wiktextract extraction)](https://kaikki.org/dictionary/Russian/) | Wiktionary contributors; extracted by Tatu Ylonen's Wiktextract (kaikki.org) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | answer-filter |
+| [FrequencyWords (OpenSubtitles 2018)](https://github.com/hermitdave/FrequencyWords) | Hermit Dave | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | answer-ranking |
+| [List of Dirty, Naughty, Obscene, and Otherwise Bad Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) | Shutterstock and contributors | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | profanity-filter |
+
+Licences of the derived lists:
+
+- Allowed guesses: CC BY-SA 4.0
+- Answer tiers: CC BY-SA 4.0
 
 ### Spanish
 

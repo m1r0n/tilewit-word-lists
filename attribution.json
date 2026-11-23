@@ -2,6 +2,10 @@
   "repository": "https://github.com/m1r0n/tilewit-word-lists",
   "suggestionsUrl": "https://github.com/m1r0n/tilewit-word-lists/issues/new?template=word-suggestion.yml",
   "licences": {
+    "BSD-style (Lebedev)": {
+      "url": "https://github.com/LibreOffice/dictionaries/blob/c0865a85eb67dc377f2cf8e8fe2c4fa9e53f0dcb/ru_RU/README_ru_RU.txt",
+      "shareAlike": false
+    },
     "CC BY 4.0": {
       "url": "https://creativecommons.org/licenses/by/4.0/",
       "shareAlike": false
@@ -284,6 +288,157 @@
           "licence": "CC BY-SA 4.0",
           "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
           "attribution": "Lexique 3.83 by Boris New and Christophe Pallier (lexique.org)",
+          "usedFor": [
+            "answer-ranking"
+          ]
+        },
+        {
+          "id": "ldnoobw",
+          "name": "List of Dirty, Naughty, Obscene, and Otherwise Bad Words",
+          "author": "Shutterstock and contributors",
+          "homepage": "https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words",
+          "licence": "CC BY 4.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "attribution": "List of Dirty, Naughty, Obscene, and Otherwise Bad Words by Shutterstock and contributors",
+          "usedFor": [
+            "profanity-filter"
+          ]
+        }
+      ]
+    },
+    {
+      "language": "portuguese",
+      "listLicences": {
+        "allowedGuesses": [
+          "CC BY-SA 4.0",
+          "MPL 2.0"
+        ],
+        "answers": [
+          "CC BY-SA 4.0",
+          "MPL 2.0"
+        ]
+      },
+      "sources": [
+        {
+          "id": "vero",
+          "name": "VERO pt_BR Hunspell dictionary 3.2",
+          "author": "Raimundo Santos Moura and the VERO project contributors",
+          "homepage": "https://pt-br.libreoffice.org/projetos/projeto-vero-verificador-ortografico/",
+          "licence": "MPL 2.0",
+          "licenceUrl": "https://www.mozilla.org/MPL/2.0/",
+          "attribution": "Brazilian Portuguese (pt_BR) Hunspell dictionary VERO by Raimundo Santos Moura and the VERO project contributors, used under the Mozilla Public License option of its LGPL 3 / MPL dual licence",
+          "usedFor": [
+            "allowed-guesses",
+            "answer-filter"
+          ]
+        },
+        {
+          "id": "wiktionary",
+          "name": "Wiktionary, Portuguese entries (Wiktextract extraction)",
+          "author": "Wiktionary contributors; extracted by Tatu Ylonen's Wiktextract (kaikki.org)",
+          "homepage": "https://kaikki.org/dictionary/Portuguese/",
+          "licence": "CC BY-SA 4.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Words and word forms of the Portuguese entries of the English Wiktionary (en.wiktionary.org) by the Wiktionary contributors, from the Wiktextract data at kaikki.org (dump of 2026-10-30), dual-licensed under CC BY-SA 4.0 and the GFDL and used under CC BY-SA 4.0",
+          "usedFor": [
+            "allowed-guesses"
+          ]
+        },
+        {
+          "id": "wiktionary_lemmas",
+          "name": "Wiktionary, Portuguese lemmas (Wiktextract extraction)",
+          "author": "Wiktionary contributors; extracted by Tatu Ylonen's Wiktextract (kaikki.org)",
+          "homepage": "https://kaikki.org/dictionary/Portuguese/",
+          "licence": "CC BY-SA 4.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Headwords (nouns, adjectives, verbs, adverbs and numerals that are not a form of another word) of the Portuguese entries of the English Wiktionary (en.wiktionary.org) by the Wiktionary contributors, from the Wiktextract data at kaikki.org (dump of 2026-10-30), dual-licensed under CC BY-SA 4.0 and the GFDL and used under CC BY-SA 4.0",
+          "usedFor": [
+            "answer-filter"
+          ]
+        },
+        {
+          "id": "frequencywords",
+          "name": "FrequencyWords (OpenSubtitles 2018)",
+          "author": "Hermit Dave",
+          "homepage": "https://github.com/hermitdave/FrequencyWords",
+          "licence": "CC BY-SA 4.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "FrequencyWords by Hermit Dave, word frequencies from the OpenSubtitles 2018 corpus (opus.nlpl.eu)",
+          "usedFor": [
+            "answer-ranking"
+          ]
+        },
+        {
+          "id": "ldnoobw",
+          "name": "List of Dirty, Naughty, Obscene, and Otherwise Bad Words",
+          "author": "Shutterstock and contributors",
+          "homepage": "https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words",
+          "licence": "CC BY 4.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "attribution": "List of Dirty, Naughty, Obscene, and Otherwise Bad Words by Shutterstock and contributors",
+          "usedFor": [
+            "profanity-filter"
+          ]
+        }
+      ]
+    },
+    {
+      "language": "russian",
+      "listLicences": {
+        "allowedGuesses": [
+          "CC BY-SA 4.0"
+        ],
+        "answers": [
+          "CC BY-SA 4.0"
+        ]
+      },
+      "sources": [
+        {
+          "id": "ru_ru",
+          "name": "Russian Hunspell dictionary (ru_RU)",
+          "author": "Alexander I. Lebedev",
+          "homepage": "https://github.com/LibreOffice/dictionaries/tree/master/ru_RU",
+          "licence": "BSD-style (Lebedev)",
+          "licenceUrl": "https://github.com/LibreOffice/dictionaries/blob/c0865a85eb67dc377f2cf8e8fe2c4fa9e53f0dcb/ru_RU/README_ru_RU.txt",
+          "attribution": "Russian (ru_RU) Hunspell dictionary, Copyright (c) 1997-2008 Alexander I. Lebedev, as shipped with LibreOffice; modified: filtered, ё folded to е, expanded and ranked",
+          "usedFor": [
+            "allowed-guesses",
+            "answer-filter"
+          ],
+          "notice": "Russian (ru_RU) Hunspell dictionary\n\nCopyright (c) 1997-2008, Alexander I. Lebedev\n\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions\nare met:\n* Redistributions of source code must retain the above copyright\n  notice, this list of conditions and the following disclaimer.\n* Redistributions in binary form must reproduce the above copyright\n  notice, this list of conditions and the following disclaimer in the\n  documentation and/or other materials provided with the distribution.\n* Modified versions must be clearly marked as such.\n* The name of Alexander I. Lebedev may not be used to endorse or promote\n  products derived from this software without specific prior written\n  permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\"\nAND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE\nIMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE\nARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE\nLIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR\nCONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF\nSUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS\nINTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN\nCONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)\nARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE\nPOSSIBILITY OF SUCH DAMAGE.\n\nThe Tilewit word lists derived from this dictionary are modified versions:\nfiltered to 5 and 6 letters, folded (ё to е), expanded with affixes and ranked.\n"
+        },
+        {
+          "id": "wiktionary",
+          "name": "Wiktionary, Russian entries (Wiktextract extraction)",
+          "author": "Wiktionary contributors; extracted by Tatu Ylonen's Wiktextract (kaikki.org)",
+          "homepage": "https://kaikki.org/dictionary/Russian/",
+          "licence": "CC BY-SA 4.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Words and word forms of the Russian entries of the English Wiktionary (en.wiktionary.org) by the Wiktionary contributors, from the Wiktextract data at kaikki.org (dump of 2026-10-30), dual-licensed under CC BY-SA 4.0 and the GFDL and used under CC BY-SA 4.0",
+          "usedFor": [
+            "allowed-guesses"
+          ]
+        },
+        {
+          "id": "wiktionary_lemmas",
+          "name": "Wiktionary, Russian lemmas (Wiktextract extraction)",
+          "author": "Wiktionary contributors; extracted by Tatu Ylonen's Wiktextract (kaikki.org)",
+          "homepage": "https://kaikki.org/dictionary/Russian/",
+          "licence": "CC BY-SA 4.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Headwords (nouns, adjectives, verbs, adverbs and numerals that are not a form of another word) of the Russian entries of the English Wiktionary (en.wiktionary.org) by the Wiktionary contributors, from the Wiktextract data at kaikki.org (dump of 2026-10-30), dual-licensed under CC BY-SA 4.0 and the GFDL and used under CC BY-SA 4.0",
+          "usedFor": [
+            "answer-filter"
+          ]
+        },
+        {
+          "id": "frequencywords",
+          "name": "FrequencyWords (OpenSubtitles 2018)",
+          "author": "Hermit Dave",
+          "homepage": "https://github.com/hermitdave/FrequencyWords",
+          "licence": "CC BY-SA 4.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "FrequencyWords by Hermit Dave, word frequencies from the OpenSubtitles 2018 corpus (opus.nlpl.eu)",
           "usedFor": [
             "answer-ranking"
           ]

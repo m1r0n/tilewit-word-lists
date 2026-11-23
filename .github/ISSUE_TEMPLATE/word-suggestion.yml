@@ -12,6 +12,8 @@ body:
         - Spanish
         - French
         - Estonian
+        - Portuguese (Brazil)
+        - Russian
     validations:
       required: true
   - type: input
