@@ -48,7 +48,9 @@
     {
       "language": "english",
       "listLicences": {
-        "allowedGuesses": [],
+        "allowedGuesses": [
+          "CC BY-SA 4.0"
+        ],
         "answers": [
           "CC BY-SA 4.0"
         ]
@@ -107,6 +109,18 @@
           "notice": "MIT License\n\nCopyright (c) 2020 Wordnik\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n"
         },
         {
+          "id": "wiktionary",
+          "name": "Wiktionary, English entries (Wiktextract extraction)",
+          "author": "Wiktionary contributors; extracted by Tatu Ylonen's Wiktextract (kaikki.org)",
+          "homepage": "https://kaikki.org/dictionary/English/",
+          "licence": "CC BY-SA 4.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Words and word forms of the English entries of the English Wiktionary (en.wiktionary.org) by the Wiktionary contributors, from the Wiktextract data at kaikki.org (dump of 2026-10-30), dual-licensed under CC BY-SA 4.0 and the GFDL and used under CC BY-SA 4.0",
+          "usedFor": [
+            "allowed-guesses"
+          ]
+        },
+        {
           "id": "frequencywords",
           "name": "FrequencyWords (OpenSubtitles 2018)",
           "author": "Hermit Dave",
@@ -148,6 +162,7 @@
       "language": "estonian",
       "listLicences": {
         "allowedGuesses": [
+          "CC BY-SA 4.0",
           "LGPL 2.1",
           "LGPL 2.1 + EKI licence"
         ],
@@ -186,6 +201,18 @@
           ]
         },
         {
+          "id": "wiktionary",
+          "name": "Wiktionary, Estonian entries (Wiktextract extraction)",
+          "author": "Wiktionary contributors; extracted by Tatu Ylonen's Wiktextract (kaikki.org)",
+          "homepage": "https://kaikki.org/dictionary/Estonian/",
+          "licence": "CC BY-SA 4.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Words and word forms of the Estonian entries of the English Wiktionary (en.wiktionary.org) by the Wiktionary contributors, from the Wiktextract data at kaikki.org (dump of 2026-10-30), dual-licensed under CC BY-SA 4.0 and the GFDL and used under CC BY-SA 4.0",
+          "usedFor": [
+            "allowed-guesses"
+          ]
+        },
+        {
           "id": "frequencywords",
           "name": "FrequencyWords (OpenSubtitles 2018)",
           "author": "Hermit Dave",
@@ -203,6 +230,7 @@
       "language": "french",
       "listLicences": {
         "allowedGuesses": [
+          "CC BY-SA 4.0",
           "MPL 2.0"
         ],
         "answers": [
@@ -237,6 +265,18 @@
           ]
         },
         {
+          "id": "wiktionary",
+          "name": "Wiktionary, French entries (Wiktextract extraction)",
+          "author": "Wiktionary contributors; extracted by Tatu Ylonen's Wiktextract (kaikki.org)",
+          "homepage": "https://kaikki.org/dictionary/French/",
+          "licence": "CC BY-SA 4.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Words and word forms of the French entries of the English Wiktionary (en.wiktionary.org) by the Wiktionary contributors, from the Wiktextract data at kaikki.org (dump of 2026-10-30), dual-licensed under CC BY-SA 4.0 and the GFDL and used under CC BY-SA 4.0",
+          "usedFor": [
+            "allowed-guesses"
+          ]
+        },
+        {
           "id": "lexique",
           "name": "Lexique 3.83",
           "author": "Boris New and Christophe Pallier",
@@ -266,6 +306,7 @@
       "language": "spanish",
       "listLicences": {
         "allowedGuesses": [
+          "CC BY-SA 4.0",
           "MPL 1.1"
         ],
         "answers": [
@@ -295,6 +336,18 @@
           "licence": "MPL 1.1",
           "licenceUrl": "https://www.mozilla.org/MPL/1.1/",
           "attribution": "Spanish (es_GQ) Hunspell dictionary of the RLA-ES project, the regional variant that also lists the regional words of the other variants, used under the MPL 1.1 option of its GPL 3 / LGPL 3 / MPL 1.1 tri-licence",
+          "usedFor": [
+            "allowed-guesses"
+          ]
+        },
+        {
+          "id": "wiktionary",
+          "name": "Wiktionary, Spanish entries (Wiktextract extraction)",
+          "author": "Wiktionary contributors; extracted by Tatu Ylonen's Wiktextract (kaikki.org)",
+          "homepage": "https://kaikki.org/dictionary/Spanish/",
+          "licence": "CC BY-SA 4.0",
+          "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Words and word forms of the Spanish entries of the English Wiktionary (en.wiktionary.org) by the Wiktionary contributors, from the Wiktextract data at kaikki.org (dump of 2026-10-30), dual-licensed under CC BY-SA 4.0 and the GFDL and used under CC BY-SA 4.0",
           "usedFor": [
             "allowed-guesses"
           ]

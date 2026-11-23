@@ -34,13 +34,14 @@ files.
 | [SCOWL en_US Hunspell dictionary](https://wordlist.aspell.net/) | Kevin Atkinson and contributors | [SCOWL licence (MIT-like)](https://wordlist.aspell.net/scowl-readme/) | answer-filter |
 | [SCOWL word lists up to size 80 (huge)](https://wordlist.aspell.net/) | Kevin Atkinson and contributors | [SCOWL licence (MIT-like)](https://wordlist.aspell.net/scowl-readme/) | allowed-guesses |
 | [Wordnik Wordlist](https://github.com/wordnik/wordlist) | Wordnik | [MIT](https://github.com/wordnik/wordlist/blob/46e6215d0f90356afe9c8ba4be347e7e98cb425c/LICENSE) | allowed-guesses |
+| [Wiktionary, English entries (Wiktextract extraction)](https://kaikki.org/dictionary/English/) | Wiktionary contributors; extracted by Tatu Ylonen's Wiktextract (kaikki.org) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | allowed-guesses |
 | [FrequencyWords (OpenSubtitles 2018)](https://github.com/hermitdave/FrequencyWords) | Hermit Dave | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | answer-ranking |
 | [List of Dirty, Naughty, Obscene, and Otherwise Bad Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) | Shutterstock and contributors | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | profanity-filter |
 | [Profanity List](https://github.com/dsojevic/profanity-list) | David Sojevic | [MIT](https://github.com/dsojevic/profanity-list/blob/c27924319aa9bd6f917e3782b4f4b6604a50b652/LICENSE) | profanity-filter |
 
 Licences of the derived lists:
 
-- Allowed guesses: no share-alike terms
+- Allowed guesses: CC BY-SA 4.0
 - Answer tiers: CC BY-SA 4.0
 
 ### Estonian
@@ -49,11 +50,12 @@ Licences of the derived lists:
 | :--- | :--- | :--- | :--- |
 | [Eesti sõnastik Hunspellile (et_EE)](https://github.com/LibreOffice/dictionaries/tree/master/et_EE) | Jaak Pruulmann, on the basis of the word list of the Institute of the Estonian Language (EKI) | [LGPL 2.1 + EKI licence](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) | allowed-guesses, answer-filter |
 | [Vabamorf morphological lexicon](https://github.com/Filosoft/vabamorf) | Filosoft | [LGPL 2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) | allowed-guesses, answer-filter |
+| [Wiktionary, Estonian entries (Wiktextract extraction)](https://kaikki.org/dictionary/Estonian/) | Wiktionary contributors; extracted by Tatu Ylonen's Wiktextract (kaikki.org) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | allowed-guesses |
 | [FrequencyWords (OpenSubtitles 2018)](https://github.com/hermitdave/FrequencyWords) | Hermit Dave | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | answer-ranking |
 
 Licences of the derived lists:
 
-- Allowed guesses: LGPL 2.1, LGPL 2.1 + EKI licence
+- Allowed guesses: CC BY-SA 4.0, LGPL 2.1, LGPL 2.1 + EKI licence
 - Answer tiers: CC BY-SA 4.0, LGPL 2.1, LGPL 2.1 + EKI licence
 
 ### French
@@ -62,12 +64,13 @@ Licences of the derived lists:
 | :--- | :--- | :--- | :--- |
 | [Dictionnaire orthographique français « Classique » 7.7 (Grammalecte)](https://grammalecte.net/) | Olivier R. and the Grammalecte contributors | [MPL 2.0](https://www.mozilla.org/MPL/2.0/) | allowed-guesses, answer-filter |
 | [Dictionnaire orthographique français « Toutes variantes » 7.7 (Grammalecte)](https://grammalecte.net/) | Olivier R. and the Grammalecte contributors | [MPL 2.0](https://www.mozilla.org/MPL/2.0/) | allowed-guesses |
+| [Wiktionary, French entries (Wiktextract extraction)](https://kaikki.org/dictionary/French/) | Wiktionary contributors; extracted by Tatu Ylonen's Wiktextract (kaikki.org) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | allowed-guesses |
 | [Lexique 3.83](https://www.lexique.org/) | Boris New and Christophe Pallier | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | answer-ranking |
 | [List of Dirty, Naughty, Obscene, and Otherwise Bad Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) | Shutterstock and contributors | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | profanity-filter |
 
 Licences of the derived lists:
 
-- Allowed guesses: MPL 2.0
+- Allowed guesses: CC BY-SA 4.0, MPL 2.0
 - Answer tiers: CC BY-SA 4.0, MPL 2.0
 
 ### Spanish
@@ -76,12 +79,13 @@ Licences of the derived lists:
 | :--- | :--- | :--- | :--- |
 | [Diccionario es_ES para Hunspell (RLA-ES)](https://github.com/sbosio/rla-es) | Santiago Bosio and the RLA-ES project | [MPL 1.1](https://www.mozilla.org/MPL/1.1/) | allowed-guesses, answer-filter |
 | [Diccionario es_GQ para Hunspell (RLA-ES)](https://github.com/sbosio/rla-es) | Santiago Bosio and the RLA-ES project | [MPL 1.1](https://www.mozilla.org/MPL/1.1/) | allowed-guesses |
+| [Wiktionary, Spanish entries (Wiktextract extraction)](https://kaikki.org/dictionary/Spanish/) | Wiktionary contributors; extracted by Tatu Ylonen's Wiktextract (kaikki.org) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | allowed-guesses |
 | [FrequencyWords (OpenSubtitles 2018)](https://github.com/hermitdave/FrequencyWords) | Hermit Dave | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | answer-ranking |
 | [List of Dirty, Naughty, Obscene, and Otherwise Bad Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) | Shutterstock and contributors | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | profanity-filter |
 
 Licences of the derived lists:
 
-- Allowed guesses: MPL 1.1
+- Allowed guesses: CC BY-SA 4.0, MPL 1.1
 - Answer tiers: CC BY-SA 4.0, MPL 1.1
 
 The full licence texts are in [`licences/`](licences/). `attribution.json` holds the same data as this README in a

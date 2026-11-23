@@ -218,6 +218,7 @@ ahlul
 ahlus
 ahmab
 ahmad
+ahmal
 ahman
 ahmas
 ahmav
@@ -230,6 +231,8 @@ ahmil
 ahmin
 ahmis
 ahmiv
+ahmul
+ahmus
 ahned
 ahnel
 ahnem
@@ -237,10 +240,12 @@ ahnes
 ahnet
 ahnur
 ahnus
+ahsoo
 ahtad
 ahtal
 ahtam
 ahtas
+ahtat
 ahted
 ahtel
 ahter
@@ -595,11 +600,15 @@ aluta
 alvar
 ambki
 ambra
+ambub
+ambud
+ambun
 ambur
 ambus
 ambuv
 amele
 ameti
+amiid
 ammed
 ammel
 ammes
@@ -1080,6 +1089,10 @@ avera
 avers
 aviis
 avita
+avuks
+avule
+avult
+avust
 baaba
 baare
 baari
@@ -1150,7 +1163,10 @@ bekki
 belle
 belli
 bemar
+bemme
+bemmi
 benss
+bensu
 berme
 bermi
 berni
@@ -1239,6 +1255,7 @@ bugid
 bugil
 bugis
 bugit
+bukki
 bulla
 burka
 burks
@@ -1283,6 +1300,8 @@ detsi
 devon
 diees
 dieet
+diile
+diili
 diiva
 dildo
 dinas
@@ -1732,6 +1751,8 @@ ereta
 ereva
 ergab
 ergad
+ergal
+ergam
 ergan
 ergas
 ergav
@@ -1807,6 +1828,9 @@ esmik
 essee
 essel
 esses
+essid
+essil
+essis
 esski
 essud
 essul
@@ -1842,6 +1866,10 @@ etüil
 etüis
 etüüd
 etüül
+eurod
+eurol
+euros
+eurot
 eveen
 evenk
 evida
@@ -1896,6 +1924,9 @@ feena
 feeni
 feest
 feeta
+feigi
+feike
+feiki
 feood
 ferme
 fermi
@@ -1954,6 +1985,7 @@ fotod
 fotol
 fotos
 fotot
+fotto
 foule
 fouli
 fraas
@@ -1987,8 +2019,17 @@ gausi
 gauss
 geene
 geeni
+geide
+geiga
+geiks
+geile
+geilt
 geime
 geimi
+geina
+geini
+geist
+geita
 gemme
 gemmi
 genfi
@@ -2193,6 +2234,7 @@ hapet
 hapne
 happa
 happe
+happu
 hapra
 hapud
 hapul
@@ -2367,6 +2409,7 @@ hiiud
 hiiul
 hiius
 hiiva
+hikki
 hilad
 hilal
 hilas
@@ -2376,6 +2419,7 @@ hilju
 hilpa
 hilpe
 hilpu
+himmu
 himud
 himul
 himur
@@ -2406,7 +2450,14 @@ hirss
 hirte
 hirve
 hirvi
+hitel
+hites
+hitid
+hitil
+hitis
 hitse
+hitte
+hitti
 hobid
 hobil
 hobis
@@ -2471,6 +2522,7 @@ hooti
 hoova
 hoove
 hoovi
+hoppi
 hopsa
 horde
 hordi
@@ -2488,7 +2540,15 @@ hudin
 hudis
 hudiv
 hudja
+hueid
+hueil
+hueis
 huhuu
+huiab
+huiad
+huian
+huias
+huiav
 huide
 huiga
 huige
@@ -2568,6 +2628,7 @@ huves
 huvid
 huvil
 huvis
+huvvi
 häbet
 häbid
 häbil
@@ -2588,6 +2649,9 @@ häire
 häiri
 häiru
 häist
+häkib
+häkid
+häkin
 häkku
 hälbe
 hälbi
@@ -2616,6 +2680,7 @@ häona
 häoni
 häost
 häota
+häppi
 härda
 härdu
 härga
@@ -2639,9 +2704,16 @@ hävin
 hävis
 häviv
 hääbu
+hääde
+hääga
+hääks
 hääle
 hääli
 häält
+hääna
+hääni
+hääst
+hääta
 hõige
 hõigi
 hõigu
@@ -2718,8 +2790,10 @@ hüved
 hüvel
 hüves
 hüvet
+hüvil
 hüvis
 hüvus
+hüvva
 hüään
 hüüab
 hüüad
@@ -3094,7 +3168,16 @@ immet
 immil
 immis
 impro
+imude
+imuga
+imuks
+imule
+imult
+imuna
+imuni
 imuri
+imust
+imuta
 inada
 inage
 inagi
@@ -3110,6 +3193,7 @@ inate
 inati
 inatu
 inava
+incel
 india
 indki
 indle
@@ -3313,15 +3397,22 @@ ivana
 ivani
 ivast
 ivata
+jaade
+jaaga
 jaagi
 jaagu
 jaake
+jaaks
 jaaku
 jaala
+jaale
+jaalt
 jaama
 jaamu
+jaana
 jaane
 jaani
+jaast
 jaata
 jaava
 jabur
@@ -3344,6 +3435,7 @@ jagus
 jaguv
 jahel
 jahes
+jahhu
 jahib
 jahid
 jahil
@@ -3396,6 +3488,7 @@ jamps
 jamsi
 jamss
 jandi
+jannu
 jante
 janti
 janub
@@ -3508,8 +3601,10 @@ jopet
 jopid
 jopil
 jopis
+joppa
 joppe
 joppi
+joppu
 jorab
 jorad
 joral
@@ -3642,7 +3737,10 @@ jäide
 jäiga
 jäigi
 jäika
+jäiks
 jäiku
+jäile
+jäilt
 jäime
 jäine
 jäise
@@ -3842,14 +3940,17 @@ kabal
 kaban
 kabas
 kabav
+kabbe
 kabed
 kabel
+kaber
 kabes
 kabet
 kabin
 kabja
 kabla
 kabli
+kabra
 kabud
 kabul
 kabun
@@ -3882,6 +3983,7 @@ kaena
 kaeni
 kaenu
 kaera
+kaeri
 kaeru
 kaest
 kaeta
@@ -3962,6 +4064,7 @@ kajal
 kajan
 kajas
 kajav
+kajja
 kajur
 kajut
 kakab
@@ -3976,6 +4079,7 @@ kakav
 kakel
 kaker
 kakes
+kakka
 kakke
 kakku
 kakle
@@ -4027,6 +4131,7 @@ kamba
 kamee
 kamin
 kamja
+kamma
 kamme
 kammi
 kampa
@@ -4095,6 +4200,8 @@ kappa
 kappe
 kappi
 kappu
+kapra
+kapru
 kapsa
 kapse
 kapsi
@@ -4110,6 +4217,10 @@ karbi
 karda
 kardi
 kardu
+kared
+karel
+kares
+karet
 karga
 karge
 kargo
@@ -4135,6 +4246,7 @@ karpu
 karra
 karre
 karri
+karru
 karsi
 karss
 karst
@@ -4162,6 +4274,7 @@ kasko
 kassa
 kasse
 kassi
+kassu
 kasta
 kaste
 kasti
@@ -4286,7 +4399,11 @@ kehti
 kehva
 kehvi
 kehvu
+keiks
+keile
+keilt
 keiss
+keist
 kekel
 kekes
 kekid
@@ -4330,11 +4447,14 @@ kenas
 kenil
 kenim
 kenis
+kenna
 kenus
 kepel
 kepes
+kepib
 kepid
 kepil
+kepin
 kepis
 kepja
 keppe
@@ -4371,6 +4491,7 @@ kesik
 kesil
 kesis
 kesli
+kessa
 kesse
 kessi
 kesta
@@ -4659,6 +4780,7 @@ kiset
 kiske
 kisku
 kisma
+kissa
 kissi
 kista
 kisti
@@ -4829,6 +4951,7 @@ kohan
 kohas
 kohav
 kohev
+kohha
 kohid
 kohil
 kohim
@@ -5096,9 +5219,11 @@ kotal
 kotas
 kotel
 kotes
+kotib
 kotid
 kotik
 kotil
+kotin
 kotis
 kotja
 kotka
@@ -5207,9 +5332,11 @@ kubus
 kudas
 kudes
 kudev
+kudub
 kudud
 kudul
 kudum
+kudun
 kudus
 kuduv
 kugar
@@ -5368,6 +5495,7 @@ kurna
 kurne
 kurni
 kurnu
+kurra
 kurru
 kursa
 kursi
@@ -5401,12 +5529,19 @@ kussu
 kusta
 kusti
 kustu
+kutel
+kutes
+kutid
+kutil
+kutis
 kutri
 kutsa
 kutse
 kutsi
 kutsu
 kutte
+kutti
+kuttu
 kuuas
 kuuba
 kuube
@@ -5546,6 +5681,7 @@ käksi
 kälid
 kälil
 kälis
+källi
 kämbu
 kämme
 kämmu
@@ -5572,8 +5708,11 @@ käota
 käpad
 käpal
 käpas
+käpib
+käpid
 käpik
 käpil
+käpin
 käpis
 käpja
 käppa
@@ -5604,6 +5743,7 @@ kärne
 kärni
 kärpe
 kärpi
+kärra
 kärre
 kärri
 kärsa
@@ -5663,6 +5803,7 @@ kõbil
 kõbin
 kõbis
 kõbiv
+kõbla
 kõbli
 kõbud
 kõbul
@@ -5752,6 +5893,7 @@ kõnes
 kõnet
 kõnge
 kõnna
+kõnne
 kõnni
 kõnnu
 kõnts
@@ -5822,6 +5964,7 @@ kõver
 kõvim
 kõvul
 kõvus
+kõvva
 kõõbi
 kõõks
 kõõle
@@ -5852,6 +5995,7 @@ kögin
 köhad
 köhal
 köhas
+köhha
 köhib
 köhid
 köhin
@@ -5947,6 +6091,7 @@ künta
 künti
 küntu
 küpse
+küpsi
 kürba
 kürbi
 küree
@@ -6125,6 +6270,7 @@ laigu
 laiim
 laika
 laike
+laiki
 laiku
 laima
 laime
@@ -6296,6 +6442,7 @@ lauas
 lauba
 laube
 lauda
+laude
 laudi
 laudu
 lauga
@@ -6327,6 +6474,7 @@ laval
 lavas
 lavul
 lavus
+lavva
 lebab
 lebad
 leban
@@ -6571,6 +6719,7 @@ lihav
 lihel
 lihes
 lihet
+lihha
 lihib
 lihid
 lihil
@@ -6701,6 +6850,7 @@ lisas
 lisav
 liset
 lisna
+lissa
 listi
 litad
 lital
@@ -6813,6 +6963,7 @@ lohed
 lohel
 lohes
 lohet
+lohhe
 lohin
 lohke
 lohku
@@ -6966,6 +7117,7 @@ lotot
 lotsi
 lotte
 lotti
+lottu
 loved
 lovel
 loves
@@ -7161,6 +7313,7 @@ läkus
 lälla
 lämbe
 lämbu
+lämme
 lämmi
 lämmu
 lämpa
@@ -7502,10 +7655,13 @@ mahel
 mahes
 mahib
 mahid
+mahil
 mahin
+mahis
 mahla
 mahlu
 mahte
+mahti
 mahtu
 mahub
 mahud
@@ -7653,6 +7809,7 @@ marke
 marki
 marku
 marli
+marri
 marru
 marsa
 marsi
@@ -7705,9 +7862,11 @@ matti
 mattu
 matus
 matva
+mauga
 maugu
 mauke
 mauku
+mauna
 maure
 mauri
 medal
@@ -7720,6 +7879,8 @@ meela
 meele
 meeli
 meelt
+meeme
+meemi
 meena
 meene
 meeni
@@ -7727,6 +7888,7 @@ meenu
 meere
 meeri
 meese
+meesi
 meest
 meeta
 mehed
@@ -7745,8 +7907,11 @@ meier
 meies
 meiet
 meige
+meigi
 meigu
 meika
+meike
+meiki
 meiks
 meile
 meili
@@ -7775,6 +7940,9 @@ memod
 memol
 memos
 memot
+mendi
+mennu
+menti
 menud
 menuk
 menul
@@ -7822,6 +7990,8 @@ miine
 miini
 miisu
 mikro
+mikse
+miksi
 milgi
 mille
 milli
@@ -8022,6 +8192,9 @@ munev
 munga
 munka
 munki
+munna
+munne
+munni
 murda
 murde
 murdu
@@ -8048,6 +8221,8 @@ musid
 musil
 musis
 musse
+mussi
+mussu
 musta
 musti
 mustu
@@ -8178,6 +8353,7 @@ märka
 märke
 märki
 märku
+märra
 märsi
 märss
 märts
@@ -8234,7 +8410,9 @@ mõika
 mõike
 mõiku
 mõisa
+mõisi
 mõist
+mõjju
 mõjub
 mõjud
 mõjul
@@ -8249,6 +8427,7 @@ mõlgi
 mõlgu
 mõlke
 mõlki
+mõlla
 mõmin
 mõmme
 mõmmi
@@ -8265,6 +8444,7 @@ mõnel
 mõnem
 mõnes
 mõnna
+mõnnu
 mõnsa
 mõnud
 mõnul
@@ -8296,6 +8476,7 @@ mõstu
 mõtet
 mõtle
 mõtte
+mõttu
 mõtus
 mõõda
 mõõde
@@ -8318,6 +8499,7 @@ mögas
 mögav
 mögin
 möire
+mökka
 mökud
 mökul
 mökum
@@ -8360,6 +8542,8 @@ mühas
 mühav
 mühin
 mühka
+müime
+müite
 müksa
 mükse
 müksi
@@ -8381,6 +8565,7 @@ mürgi
 mürin
 mürke
 mürki
+mürra
 mürre
 mürri
 mürsk
@@ -8670,6 +8855,7 @@ niidu
 niied
 niiel
 niies
+niiet
 niigi
 niiks
 niine
@@ -8682,10 +8868,19 @@ niita
 niite
 niiti
 niitu
+nikel
+nikes
+nikke
+nikku
 nikli
 nikse
 niksi
 niksu
+nikub
+nikud
+nikul
+nikun
+nikus
 nilba
 nilbe
 nilbu
@@ -8735,6 +8930,7 @@ nirus
 nisad
 nisal
 nisas
+nissu
 nisud
 nisul
 nisus
@@ -8781,6 +8977,7 @@ nokis
 nokja
 nokka
 nokki
+nokku
 nokud
 nokul
 nokus
@@ -8867,6 +9064,7 @@ nudim
 nudin
 nudis
 nudiv
+nugat
 nugib
 nugid
 nugin
@@ -8954,6 +9152,8 @@ nurul
 nurun
 nurus
 nuruv
+nusse
+nussi
 nutab
 nutad
 nutan
@@ -9026,6 +9226,7 @@ näime
 näinu
 näita
 näite
+näiti
 näitu
 näiva
 näkad
@@ -9286,6 +9487,7 @@ nürim
 nürin
 nüris
 nüriv
+nürri
 nüsib
 nüsid
 nüsin
@@ -9859,7 +10061,11 @@ otsal
 otsan
 otsas
 otsav
+otsed
+otsel
 otsem
+otses
+otset
 otsib
 otsid
 otsik
@@ -9892,6 +10098,7 @@ paane
 paani
 paare
 paari
+paaru
 paase
 paasi
 paast
@@ -9947,6 +10154,7 @@ pahel
 pahem
 pahes
 pahet
+pahha
 pahim
 pahin
 pahka
@@ -9987,6 +10195,7 @@ paita
 pajad
 pajal
 pajas
+pajju
 pajud
 pajuk
 pajul
@@ -10214,6 +10423,11 @@ peats
 peatu
 peber
 pebre
+pedde
+peded
+pedel
+pedes
+pedet
 pedja
 peede
 peedi
@@ -10276,6 +10490,11 @@ peksa
 pekse
 peksi
 peksu
+pelab
+pelad
+pelan
+pelas
+pelav
 peldi
 peled
 pelga
@@ -10311,6 +10530,7 @@ peoni
 peoon
 peost
 peota
+peppu
 pepre
 pepri
 pepse
@@ -10414,6 +10634,7 @@ pihka
 pihke
 pihku
 pihla
+pihle
 pihlu
 pihta
 pihte
@@ -10694,11 +10915,13 @@ polut
 pomin
 pomme
 pommi
+pomps
 pondu
 ponid
 ponil
 ponis
 ponks
+ponni
 ponts
 pooda
 poode
@@ -10757,6 +10980,7 @@ poros
 porot
 porre
 porri
+porro
 porru
 porsa
 porsi
@@ -10862,6 +11086,9 @@ ptiid
 ptiil
 ptiis
 ptruu
+pubid
+pubil
+pubis
 pudel
 puder
 pudet
@@ -11072,6 +11299,8 @@ putot
 putra
 putre
 putru
+putse
+putsi
 puuda
 puude
 puudi
@@ -11099,6 +11328,10 @@ puuta
 puute
 puutu
 puänt
+pädeb
+päded
+päden
+pädes
 pädev
 päeva
 päevi
@@ -11151,6 +11384,7 @@ pärmi
 pärna
 pärni
 pärnu
+pärra
 pärsi
 pärss
 pärus
@@ -11334,6 +11568,7 @@ pöial
 pöias
 pöida
 pöidi
+pöidu
 pöita
 pöögi
 pööke
@@ -11357,6 +11592,7 @@ pühal
 püham
 pühas
 pühet
+pühha
 pühib
 pühid
 pühil
@@ -11490,6 +11726,8 @@ rahed
 rahel
 rahes
 rahet
+rahha
+rahhu
 rahib
 rahid
 rahin
@@ -11546,6 +11784,7 @@ rajal
 rajan
 rajas
 rajav
+rajja
 rajud
 rajul
 rajus
@@ -11581,6 +11820,7 @@ rampe
 rampi
 rampu
 randa
+rande
 randi
 randu
 ranga
@@ -11612,6 +11852,7 @@ rapla
 raple
 rappa
 rappe
+rappi
 rappu
 rapsa
 rapse
@@ -11694,6 +11935,7 @@ rebiv
 rebud
 rebul
 rebus
+rebut
 redel
 redes
 redis
@@ -11740,6 +11982,7 @@ reiki
 reipa
 reise
 reisi
+reisu
 reite
 reiul
 reius
@@ -11777,6 +12020,7 @@ reona
 reoni
 reost
 reota
+reppu
 repro
 resid
 reski
@@ -11830,6 +12074,9 @@ rihul
 rihus
 rihva
 rihvu
+riiad
+riial
+riias
 riibi
 riibu
 riida
@@ -11884,7 +12131,9 @@ rinnu
 ripet
 ripik
 ripne
+rippa
 rippe
+rippi
 rippu
 ripse
 ripsi
@@ -11959,6 +12208,9 @@ roies
 roiet
 roiim
 roika
+roiks
+roile
+roilt
 roima
 roimi
 roina
@@ -11988,6 +12240,10 @@ rolle
 rolli
 rombe
 rombi
+rommu
+romud
+romul
+romus
 rondi
 rondo
 ronga
@@ -12090,7 +12346,11 @@ ruiki
 rukis
 rukka
 rukki
+rulad
+rulal
+rulas
 rulja
+rulla
 rulle
 rulli
 rullu
@@ -12211,6 +12471,7 @@ ränis
 ränka
 ränki
 ränne
+ränni
 rännu
 räpad
 räpal
@@ -12812,6 +13073,7 @@ sepil
 sepis
 sepli
 seppa
+seppe
 seppi
 serai
 serva
@@ -12828,12 +13090,18 @@ setil
 setin
 setis
 setme
+setot
 sette
 setti
+settu
 setud
 setul
 setus
 setut
+seuks
+seule
+seult
+seust
 sfäär
 sibab
 sibad
@@ -12846,6 +13114,7 @@ sibin
 sibis
 sibli
 sibul
+sidde
 sided
 sidel
 sides
@@ -12903,6 +13172,8 @@ sikes
 sikka
 sikke
 sikku
+sikse
+siksi
 sikud
 sikul
 sikus
@@ -12999,6 +13270,7 @@ sisin
 siski
 sisse
 sissi
+sissu
 sisud
 sisul
 sisus
@@ -13006,13 +13278,16 @@ sitad
 sital
 sitar
 sitas
+sitel
 sitem
+sites
 sitim
 sitke
 sitku
 sitse
 sitsi
 sitta
+sitte
 sittu
 situb
 situd
@@ -13174,6 +13449,8 @@ solve
 solvu
 sombi
 sombu
+somme
+sommi
 sompa
 sompe
 sompu
@@ -13287,6 +13564,8 @@ sotse
 sotsi
 sotte
 sotti
+soume
+soumi
 soust
 spasm
 sperm
@@ -13418,6 +13697,7 @@ sumer
 sumin
 summa
 summi
+summu
 sumod
 sumol
 sumos
@@ -13547,6 +13827,7 @@ säile
 säili
 säilu
 säina
+säkka
 sälel
 säles
 sälge
@@ -13589,6 +13870,7 @@ särts
 säsid
 säsil
 säsis
+sässi
 sätet
 sätib
 sätid
@@ -13661,6 +13943,7 @@ sõned
 sõnel
 sõnes
 sõnet
+sõnna
 sõnne
 sõnni
 sõnub
@@ -13801,6 +14084,8 @@ sünki
 sünna
 sünni
 sürja
+sürre
+sürri
 süsik
 süsil
 süsis
@@ -13820,9 +14105,11 @@ süval
 süvas
 süvem
 süvik
+süvil
 süvim
 süvis
 süvus
+süvva
 süüde
 süüdi
 süües
@@ -13848,6 +14135,8 @@ taaka
 taake
 taaki
 taaku
+taala
+taalu
 taane
 taani
 taara
@@ -13867,6 +14156,7 @@ tabel
 tabud
 tabul
 tabus
+tader
 taela
 taele
 taeli
@@ -14100,6 +14390,7 @@ taset
 tasku
 tasse
 tassi
+tassu
 tasub
 tasud
 tasul
@@ -14108,6 +14399,7 @@ tasus
 tasuv
 tatar
 tatel
+tater
 tates
 tatid
 tatik
@@ -14131,8 +14423,12 @@ tauni
 taust
 tauta
 tavad
+tavai
 taval
 tavas
+tavul
+tavus
+tavva
 teabe
 teada
 teade
@@ -14267,11 +14563,13 @@ terad
 teral
 teras
 terav
+teret
 teril
 teris
 terme
 termi
 terne
+terra
 terts
 terve
 teste
@@ -14367,6 +14665,7 @@ tinge
 tingi
 tingu
 tinin
+tinna
 tinte
 tinti
 tipel
@@ -14714,6 +15013,7 @@ trüki
 trükk
 trümm
 tsaar
+tseed
 tsehh
 tsent
 tsett
@@ -14769,6 +15069,7 @@ tuhka
 tuhki
 tuhla
 tuhli
+tuhma
 tuhme
 tuhmi
 tuhmu
@@ -15065,6 +15366,7 @@ tänki
 tänks
 tänku
 tänna
+tännu
 tänud
 tänul
 tänus
@@ -15122,6 +15424,7 @@ tõest
 tõeta
 tõhel
 tõhes
+tõhhi
 tõhke
 tõhku
 tõhud
@@ -15168,6 +15471,7 @@ tõrje
 tõrju
 tõrke
 tõrre
+tõrru
 tõrsi
 tõrte
 tõrud
@@ -15273,6 +15577,8 @@ tühik
 tühja
 tühje
 tühju
+tühma
+tühmi
 tükel
 tükes
 tükib
@@ -15298,16 +15604,21 @@ tümam
 tümas
 tümin
 tümja
+tümma
 tümps
 tünja
 tünne
 tünni
+türad
+türal
+türas
 türbi
 türgi
 türme
 türmi
 türpe
 türpi
+türra
 tüssa
 tüsse
 tüssi
@@ -15834,6 +16145,7 @@ urngi
 urnid
 urnil
 urnis
+urood
 uruga
 urugi
 uruke
@@ -16058,6 +16370,7 @@ vadin
 vadis
 vadit
 vadiv
+vadja
 vadub
 vadud
 vadun
@@ -16107,6 +16420,8 @@ vahel
 vaher
 vahes
 vahet
+vahha
+vahhe
 vahib
 vahid
 vahil
@@ -16182,6 +16497,7 @@ valan
 valas
 valav
 valda
+valde
 valdu
 valed
 valel
@@ -16207,6 +16523,7 @@ valku
 valla
 valle
 valli
+vallu
 valme
 valmi
 valsi
@@ -16241,6 +16558,7 @@ vangu
 vanik
 vanim
 vanka
+vanna
 vanne
 vanni
 vannu
@@ -16271,6 +16589,7 @@ vapid
 vapil
 vapis
 vaple
+vappa
 vappe
 vappi
 vappu
@@ -16309,6 +16628,7 @@ varna
 varnu
 varpe
 varpi
+varra
 varre
 varri
 varru
@@ -16436,6 +16756,7 @@ velgi
 velil
 velis
 velje
+velle
 velma
 velpa
 vembu
@@ -16455,6 +16776,7 @@ venis
 veniv
 venku
 venna
+venne
 veoga
 veogi
 veoke
@@ -16532,6 +16854,7 @@ vihas
 vihav
 vihel
 vihes
+vihha
 vihid
 vihik
 vihil
@@ -16650,6 +16973,7 @@ vimba
 vimbu
 vimka
 vimma
+vimmi
 vimmu
 vinab
 vinad
@@ -16687,6 +17011,7 @@ vipil
 vipis
 vippe
 vippi
+vippu
 virab
 virad
 viral
@@ -16740,8 +17065,15 @@ visse
 vissi
 viste
 visti
+vitel
+vites
 vitsa
 vitsu
+vitte
+vittu
+vitud
+vitul
+vitus
 viude
 viudi
 viuga
@@ -16916,9 +17248,12 @@ väest
 väeta
 väeti
 vägev
+vähed
 vähel
 vähem
 vähes
+vähet
+vähhe
 vähid
 vähil
 vähim
@@ -17340,6 +17675,7 @@ zooid
 äregi
 äreva
 ärgas
+ärgem
 äride
 äriga
 ärigi
@@ -17783,6 +18119,7 @@ zooid
 õtsus
 õudki
 õudne
+õudsa
 õudse
 õudus
 õuede
@@ -17808,6 +18145,15 @@ zooid
 õunus
 õuski
 õusse
+õvede
+õvega
+õveks
+õvele
+õvelt
+õvena
+õveni
+õvest
+õveta
 õõnde
 õõndu
 õõned
@@ -17822,6 +18168,11 @@ zooid
 õõsse
 õõtse
 õõtsu
+õõvad
+õõval
+õõvas
+õõvul
+õõvus
 ödeem
 öelda
 öeldi
@@ -17844,15 +18195,21 @@ zooid
 örina
 örise
 ööaeg
+ööaja
+ööbad
+ööbal
+ööbas
 ööbib
 ööbid
 ööbik
+ööbil
 ööbin
 ööbis
 ööbiv
 öödel
 öödes
 öödki
+ööelu
 öögel
 ööges
 ööget
@@ -17882,6 +18239,7 @@ zooid
 öösis
 ööski
 öösse
+öötöö
 üdide
 üdiga
 üdigi
@@ -17915,6 +18273,7 @@ zooid
 üheta
 ühete
 üheti
+ühika
 ühiku
 ühine
 ühing
